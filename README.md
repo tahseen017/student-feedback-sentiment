@@ -72,9 +72,7 @@ student-feedback-sentiment/
 └── README.md
 ```
 
-## 💼 CV bullet (once pushed)
 
-> Analysed 107,000 course reviews with NLP sentiment scoring (Python, NLTK VADER) to extract student praise themes and pain points.
 
 ## 📄 License
 
